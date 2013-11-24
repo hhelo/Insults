@@ -3,7 +3,7 @@ Insults
 
 [Source](src/) of insults, for a better planet.
 
-Some insults may possibly be mind shattering, _insulting_ (of course!) and/or inappropriate. Use with caution.
+Some insults may possibly be mind shattering, _insulting_ (of course!) and/or inappropriate. Use with caution. They can be smart, they can be based off of real things people have said (praise humanity).
 
 Contributing
 ============
@@ -19,3 +19,8 @@ Conventions
 * If you want a lowercase name, use {name}
 * If you want a name as-is, use {Name}
 * If you want an uppercase name, use {NAME}
+
+Seriously?
+==========
+
+Yeah.

@@ -8,7 +8,7 @@ Some insults may possibly be mind shattering, _insulting_ (of course!) and/or in
 Contributing
 ============
 
-1. Edit the files in [src/](src/). Add it to both insults.md and insults.json
+1. Edit the files in [src/](src/). Add it to both insults.txt and insults.json
 2. If it's your first time, add your name to [CONTRIBUTORS](CONTRIBUTORS).
 3. Send a pull request!
 

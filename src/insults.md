@@ -1,75 +1,73 @@
-----------------
 That was very rude, {Name}, you feces sucking little ratfaced cunt. You swine. You vulgar little maggot. Don't you know that you are pathetic? You worthless bag of filth. As we say in Texas, I'll bet you couldn't pour piss out of a boot with instructions on the heel. You are a canker. A sore that won't go away. I would rather kiss a lawyer than be seen with you.
-----------------
+
 What the fuck did you just fucking say about me, {Name}, you little bitch? I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in guerrilla warfare and I'm the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You're fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the United States Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little 'clever' comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn't, you didn't, and now you're paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You're fucking dead, kiddo.
-----------------
+
 I don't give a fuck who you are or where you live, {Name}. You can count on me to be there to bring your fucking life to a hellish end. I'll put you in so much fucking pain that it'll make Jesus being nailed to a cross in the desert look like a fucking back massage on a tropical island. I don't give a fuck how many reps you have or how tough you are IRL, how well you can fight, or how many fucking guns you own to protect yourself. I'll fucking show up at your house when you aren't home. I'll turn all the lights on in your house, leave all the water running, open your fridge door and not close it, and turn your gas stove burners on and let them waste gas. You're going to start stressing the fuck out, your blood pressure will triple, and you'll have a fucking heart attack. You'll go to the hospital for a heart operation, and the last thing you'll see when you're being put under in the operating room is me hovering above you, dressed like a doctor. When you wake up after being operated on, wondering what ticking time bomb is in your chest waiting to go off. You'll recover fully from your heart surgery. And when you walk out the front door of the hospital to go home I'll run you over with my fucking car out of no where and kill you. I just want you to know how easily I could fucking destroy your pathetic excuse of a life, but how I'd rather go to a great fuckng length to make sure your last remaining days are spent in a living, breathing fucking hell. It's too late to save yourself, but don't bother committing suicide either' I'll fucking resuscitate you and kill you again myself you bitch-faced faggot. Welcome to hell, population: you
-----------------
+
 As the pictures here can signify, there are many similarities between Adolf Hitler and {Name}. In both of their eyes, is a display of depression and ambition. Both of their dim, depressed frames pictured in this pose. All thou I've never met Adolf Hitler, I know {Name} to a degree. I can tell from my years of knowing him, that is he easily depressed and is prone to suicide and aggression, as Adolf Hitler was. This picture he has taken, is a stance to his rebellion against the world, as he wishes to make a subtle impact on those around him, displaying his beautiful face. One could wonder the incarnations that lay behind those eyes, the ideals of damnation and hatred against those who resent his very existence. The dreaded bags which lay deep underneath his eyes, the every day struggle to keep on fighting, to combat his own deluded psyche. This is a curse laid upon him by whatever supernatural being that wishes to tamper in the affairs of mortals, he wishes he could fight. Yet at the same time, he's not sure what power could it be. Maybe his Friends, maybe it's his family? Perhaps, it's that Derek Jung, or TUO. To what end do his depiction of rebellion represent? The similarities, the eyes, the depressed face, the nearly identical bone structure of his nose. This is quite the uncanny, never thought of being pictured. Yet here it is, the face of the {Name}. The mask of ambition and depression. Nothing can solve his problems, not any one person, not any one medicine or trial. As Adolf Hitler found out, not even ruling an empire can cure his curse. The only solution to his suffering, may be Death.
-----------------
+
 {Name}, what the fuck did you just fucking say to Eren, you scum? I’ll have you know I graduated top of my class in the 104th Training Squad, and I’ve been involved in numerous secret raids outside the walls, and I have over 300 confirmed {Name} kills. I am trained in 3D Maneuver Gear and I’m the top soldier in the entire Recon Corps. You're nothing to me but just another {Name}. I will slice the fuck out of you with precision the likes of which has never been seen before in Wall Rose, mark my fucking words. You think you can get away with saying that shit to Eren over the Internet? Think again, {Name}. As we speak I'm contacting the Military Police across the walls and your district is being traced right now so you better prepare for the attack, {Name}. The attack that wipes out the pathetic little thing you call your nape. You’re fucking dead, {Name}. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that’s just with my blades. Not only am I extensively trained in {Name} combat, but I have access to the entire arsenal of the Recon Corps and I will use it to its full extent to slice your nape off within these walls, you damn {Name}. If only you could have known what unholy retribution your little clever post was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn’t, you didn’t, and now you’re paying the price, you goddamn {Name}. I'll shit fury all over you and you will drown in it. You’re fucking dead, {Name}.
-----------------
+
 Contrary to what many believe, there is such a being who is so grotesquely unsightly and is the detestification of each of the five senses. This individual's name is {Name}. This travesty of an existence seemed to come about due to some freak accident of genetic splicing. Strands of DNA from a syphillitic hippopotamus, a hermaphroditic creature belonging to the bovine family, and a herpes ridden coyote were found in this being's genetic structure and may be the explanation for the sheer hideousness of this 'thing'. It is advised to shield your eyes whenever this individual is in a 50 mile radius of your current location, as the unsightliness of his being will be viewable from distances that far. Protect yourself, prevent your eyes from casting at {Name}, although it may be tempting, or else you will suffer from afflictions such as excessive vomiting, mental trauma tremendously more severe than that of a mental ward patient, and an irreversible cease of vision, or in layman's terms, permanent blinding.
-----------------
+
 You know what, {Name}? Fuck your stance on profanity. Fuck your priorities in life. The WTFPL is about fucking freedom and we mean it. Freedom means freedom to copy and modify and share works of art and science with the rest of mankind, but also freedom to be gay and marry and have crazy gay sex, freedom to have tattoos, freedom to say there is no God, freedom to take the pill, freedom to have an abortion. People die for being gay or atheists. Don’t tell me that there is something sacred enough that it must be protected from the mere existence of the word “fuck”. If the F in WTFPL offends you, then fuck you and your beliefs. Triple fuck you.
-----------------
+
 {name}, you fucking ass muncher you cheating mu fucka i hope yo daddy booty rape yo bitch ass and you catch aids you lonely white trash piece of shit waste of human flesh drink bleach please hoe mu fucka eat 2 godzilla dicks
-----------------
+
 DONT YOU FUCKING DARE CALL HER A DUMBASS AGAIN {NAME}!. YOU FUCKING PEICE OF SHIT!!!!! SHE IS EIGHT. SHE MAKES MISTAKES. SHUT THE FUCK UP. SHE DOESNT EVEN KNOW YOU. FUCK OFF BEFORE I JUST FUCKING RAGE ON YOU I SWEAR TO FUCKING GOD LEAVE US ALL ALONE DONT YOU DARE TALK ABOUT MY LITTLE SISTER LIKE THAT!. I DONT GIVE A LIEING PEICE OF SHIT IF I AM A FURFAG OR NOTHING. I DONT CARE IN THE LOVING MIND OF THAT FUCKING PEANUT OF A BRAIN, OF YOURS, I DO, NOT. CARE FOR WHAT YOU SAY ABOUT ME. BUT WHAT YOU SAY ABOUT FTD...MY FAMILY...OR ANYONE ELSE...I FUCKING SWEAR, YOU CAN JUST GET THE FUCK OUT STANK
-----------------
+
 {NAME} I HAD ENOUGH OF YOUR BULLSHIT. EVERY FUCKING DAY YOU TELL ME TO DO SOME FUCKING SHIT THAT IS USELESS AND WILL NEVER FUCKING HELP ME. IF YOU WANT, YOU SHOULD JUTS FUCK YOURSELF AND PUT A BIG KNIFE UP YOUR LITTLE FUCKING ASSHOLE AND JUMP OFF THE BRIDE, STUPID FUCKING FAGGOT. FUCK YOU, I HOPE YOUR FAMILY DIES AND GETS SHOT IN A FUCKING ISLAND. BITCHES.
-----------------
+
 {Name} is a lamentably depraved reptile and a debased feeble-minded derelict whose birth certificate is an apology from the condom factory.
-----------------
+
 {Name} is an abominably hermaphroditic scoundrel and a malingering heart-sickening conglomerate of intellectual constipation.
-----------------
+
 {Name}, your astounding illiteracy is only exceeded by your wanton ignorance. Your brain would be better off if it were to be genetically modified in a pile of feces. Your subnormal intellectual capacity may interest someone studying abnormal psychology, since your level of intellect is lower than a single celled organism, however, I realize that may be beyond your ability to comprehend due to your lack of intellegence, let me voice this in a fashion you're probably accustomed to: You are uneducated, and stupid. Please cease the appearance on the internet, from now on. You are like a cancer. Goodbye.
-----------------
+
 Hey, {Name}. I see that your english is really bad. I'm going to explain this to you as simple as I possibly could: learn english. This site might help you: http://learnenglishkids.britishcouncil.org/en/
-----------------
+
 shut up {name} you little peasanty homosexual slave i dont give a fuck of what you are saying just chill out and shut your yap because i am fed up with this silly trolling at least i thiught pbc was cool
-----------------
+
 Look, {Name}, you're a maggot. We've been talking for like what 5 minutes? Your going to address me ass retarded? I Get straight A's in ever class I get. My professors Praise me infringement of every one how my vast my knowledge is. So calm down. Go back to drinking your juice boxes pooping and falling asleep mmk?
-----------------
+
 {name} ur so stupid thinking u can hack this chat ur just jelious of me and tails being together u know wht ur justa desprate hoe who wants nothing but sex from tails gtfo u cant have tails he's mine mine and mine only not even linky can get to him with me around u make me laugh
-----------------
+
 {NAME} IN MY LIFE UR JUST ON A COMPUTER SCREEN OH WOW A GIANT ASS COMPUTER SCREEN U CAN JUST FUCK URSELF AND JIZZ ON IT AND I HOPE UR ASS GETS BEAT BY A BELT BY UR MOM NOW LEAVE
-----------------
+
 {name} ur a shitty ass troll with no life and u keep saying everything is my fault well i have news for u SAY SOMETHING INTELLIGENT OR SHUT UR FACE
-----------------
+
 WHAT THE FUCK {NAME} YOU OLDIE? KATTY PERY IS A ASPIRATION! GO FUCK URSEF! OH AND PEECOK ISNT ABOUT DICKS PERVERTE!!! STFU UR LIKE 50YEARS OLD!!! I LIKE KATTIE PERY, JUSTIN BEIBER AND 1D YOU LIKE 1920 COWBOY MUSICS, UR NOT A LIL GURL ANYMORRE! FUCK YOU OLDIE, DUMMIE M-FUCKARE!!!!
-----------------
+
 YOU KNOW WHAT, {NAME}? FUCK THESE FORUMS AND FUCK VP! IM TIRED OF BEING FUCKING INSULTED OVER THE GODDAM FORUMS EVEN THOUGH ITFS FUCKING FORUM HUMOR OR SOME BULLSHIT LIKE THAT. NOT ONE PERSON EVEN CARES ABOUT ME IN VP, MUCH LESS LIKES ME SO FUCK IT, AND FUCK ALL OF YOU GUYS FOR FUCKS SAKE IM DONE WITH VP. IVE STAYED HERE FOR AN ENTIRE FUCKING YEAR AND NOBODY STILL HAS ANY GODDAMN RESPECT FOR ME. ALL THE PEOPLE I KNEW FROM WAY BACK WHEN ALREADY QUIT VP SO ITS ABOUT TIME I DID TOO
-----------------
+
 {Name}, please shut the fuck up and tell me this shit later when I have a nice life and you're a homeless bum with your extensive knowledge of sociaty
-----------------
+
 first of all, {name}, i m not a atteantion whore, sir, you are, and second of all,how about you fucking quit po already and take your fucking dumbass out of here,son of a bitch,a nd we are normal for our fucking age,bitchy ass, u butthurt so bad that rouge is fucking rapeing u while a fucking furry 100000 long dick is fucking your anus hole and sperming in your mouth
-----------------
+
 {Name}, please shut the fuck up and tell me this shit later when I have a nice life and you're a homeless bum with your extensive knowledge of sociaty
-----------------
+
 {NAME} U BULLY WTF UR JUST LIKE THE REST OF THEM ALL MEAN AND STUFF WELL GUESS WHAT IVE HAD IT WITH YOU MISTER IM TELLING EVERYONE MY MOMMY THE PRINCIPAL AND YOUR MOMMY YOUR DONE MISTER GROUNDED FOR 8 WEEKS HOW DOES IT FEEL THATS WHAT U GET FOR BULLYING ME U FAGGOT
-----------------
+
 HOW DARE YOU PROVOKE THE MIGHTY HEROBRINE THE MOST POWERFUL BAD GUY IN ALL OF MINECRAFTIA IF YOU EVER PLAY MINECRAFT YOU BETTER HOPE {NAME} THAT YOU GO BACK TO FIGHT ARCEUS WITH A LEVEL 1 MAGIKARP THAN FACE MY UNHOLY WRATH youve been warned
-----------------
+
 {NAME} YOU MEAN FUCKER IM DONE WITH THIS SHIT ALL U DO IS PICK ON ME GET A LIFE UGH YOU UGLY FUCKER GO AWAY BEFORE SHIT ON UR FACE
-----------------
+
 *sigh* {Name} You just don't get it do you. Ive already lived Everything you aren't even close to. Immaturity? Actually it's a sense in humor but call it what you please. It doesn't affect me in any way.Solitude? Don't make me laugh kid. I've been in the army for 4 Years and Have a girlfriend. What do you have? Your computers and video games.Learn some more about the world? Look kid I have enough knowledge about this world we live in sometimes I wish I didn't.Grow the fuck up? I think I've grown plenty. See, Kid
-----------------
+
 {Name}, maybe you should shut the fuck up before you make retarded topics like this. You know why? Because you're going to be embarrassed when the Chargers wins and someone bumps this topic. Oh look at that, the Chiefs just stepped out of bounds short of the 1st down when they needed to get one, just like the Jets did. Are you a fucking drunk? Are you retarded? Are you autistic? You are a fucking idiot and you should never make a topic on this board again and I'm fucking serious.
-----------------
+
 {NAME} MY WIFE ALSO FUCK ME IN THE ASS SOMETIMES LIKE THE STRAIGHT CHRISTIAN FAMILY WE ARE. Fucking FAGGOTS I WILL NOT SUCK YOUR DICK YOU PIECE OF SHIT I AM STRAIGHT I AM NOT GAY.
-----------------
+
 Excuse me, {Name}, but just who in the fuck do you think you are? YOU, bossing ME around? Suck a trillion dicks. I don't have to do a single motherfucking thing you tell me. You think your hot shit mouthing off to me but I bet if we were face to face you'd change colors quicker than the fucking Aroara Boaryalice.
-----------------
+
 I just know your going to reply to this with LOL U MAD, {Name}. Your fucking andissipating my reply. The second you post that outdated cumback I will track you're IP, find out where you live and tear you a new arsehole.
-----------------
+
 {name} mother fucker you dont know who the fuck i am, you are a fag who likes sticking it in guys asses and you best believe that you'd be the one getting crammed in your fuckin rear by my Ukranian Fort-500 shotgun before i blow your fucking guts out your chest you faggit little bitch your fucking pathetic you best hope i never head to your town, i'll find yeah and shank you in your sleep, you wanna die motherfucker?
-----------------
+
 lol {name} you faggot, we get it, you want to sound intelligent and important and so you go to a forum like this and find some other jizzbag like you who just writes the same shit over and over again to have a debate so that someone can finally listen and hear your point of view because everybody who comes across you isn't interested.
-----------------
+
 Oooooooh, {Name}, I'm so scared, you think you're tough pussy? I'm behind 7 proxies and use ZoneAlarm, Sygate and Comodo Internetnet Securtiy which I all keep up-to-date. THAT'S THREE FIREWALLS AT THE SAME TIME motherfucker. You can't hack me you little piece of shit. You're peeshooter and kung fu won't make a difference when my friend woh's a B-51 pilot in the Air Force can turn your entire house and backyard into a fuckhuge bomb crater.
-----------------
+
 {Name}, you are pathetic, while you're sitting there writing insults like the sad little nerd you are i'm having sex with my hot girlfriends. Yeah you read that right, i have not one but FIVE girlfriends. Top that motherfucker, I dont think you've ever even held hands with a girl.
-----------------
+
 {NAME} WHAT DID YOU FUCKING CALL ME? A FAGGOT? DO YOU FUCKING KN OW WHAT FAGGOT EVEN MEANS? IT MEANS A HOMOSEXUAL. A FUCKING QUEER. A WHOOPSY. A PRANCING LALA FRUITY BOY. YOU COME HERE, AND CALL ME FUCKING THAT? DO YOU HAVE ANY IDEA HOW MANY GIGABYTES OF PORNOGRAPHY FEATURING ONLY FUCKING !!!FEMALES!! I HAVE? DO YOU HAVE ANY IDEA HOW MANY TIMES A DAY I MASTURBATE TO THIS COLLECTION, HOW MANY HOURS I SPEND EXPANDING IT?
-----------------

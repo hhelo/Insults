@@ -8,9 +8,9 @@ Some insults may possibly be mind shattering, _insulting_ (of course!) and/or in
 Contributing
 ============
 
-1. Edit the files in [src/](src/). Add it to both insults.txt and insults.json
-2. If it's your first time, add your name to [CONTRIBUTORS](CONTRIBUTORS).
-3. Send a pull request!
+1. Add your insult(s) to [insults.txt](https://github.com/TheUnknownOne/Insults/edit/master/src/insults.txt) (click to fork the repository and open an editor).
+2. If it's your first time, add your name to [CONTRIBUTORS](https://github.com/TheUnknownOne/Insults/edit/master/CONTRIBUTORS).
+3. Send a pull request! (Go to "Pull Request" in your fork and click on "New Pull Request")
 
 Conventions
 ===========

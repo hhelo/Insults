@@ -5,6 +5,8 @@ Insults
 
 Some insults may possibly be mind shattering, _insulting_ (of course!) and/or inappropriate. Use with caution. They can be smart, they can be based off of real things people have said (praise humanity).
 
+There is a little [script](src/intellisult.js) that generates insults. The source is from [http://intellisult.com/](Intellisult), check it out!
+
 Contributing
 ============
 

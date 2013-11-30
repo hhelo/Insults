@@ -2,8 +2,9 @@ intellisult = (name) ->
     random = (container, check) ->
         len = container.length
         str = container[Math.floor(Math.random() * len)]
-        while str is check
+        while str is intellisult[check]
             str = container[Math.floor(Math.random() * len)]
+        intellisult[check] = str
         return str
         
     config = intellisult.config
@@ -14,19 +15,12 @@ intellisult = (name) ->
     E = config.E
     F = config.F
     
-    a = random(A, intellisult.a)
-    b = random(B, intellisult.b)
-    c = random(C, intellisult.c)
-    d = random(D, intellisult.d)
-    e = random(E, intellisult.e)
-    f = random(F, intellisult.f)
-
-    intellisult.a = a
-    intellisult.b = b
-    intellisult.c = c
-    intellisult.d = d
-    intellisult.e = e
-    intellisult.f = f
+    a = random(A, 'a')
+    b = random(B, 'b')
+    c = random(C, 'c')
+    d = random(D, 'd')
+    e = random(E, 'e')
+    f = random(F, 'f')
     
     name ?= ''
     if name.trim() isnt ''

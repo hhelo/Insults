@@ -7,6 +7,8 @@ Some insults may possibly be mind shattering, _insulting_ (of course!) and/or in
 
 There is a little [script](src/intellisult.js) that generates insults. The source is from [http://intellisult.com/](Intellisult), check it out!
 
+Oh and, [this](http://pastebin.com/raw.php?i=RRFYNEKU). You might find it amusing.
+
 Contributing
 ============
 

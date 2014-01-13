@@ -6,22 +6,14 @@ intellisult = (name) ->
             str = container[Math.floor(Math.random() * len)]
         intellisult[check] = str
         return str
-        
-    config = intellisult.config
-    A = config.A
-    B = config.B
-    C = config.C
-    D = config.D
-    E = config.E
-    F = config.F
-    
-    a = random(A, 'a')
-    b = random(B, 'b')
-    c = random(C, 'c')
-    d = random(D, 'd')
-    e = random(E, 'e')
-    f = random(F, 'f')
-    
+
+    a = random(intellisult.config.A, 'a')
+    b = random(intellisult.config.B, 'b')
+    c = random(intellisult.config.C, 'c')
+    d = random(intellisult.config.D, 'd')
+    e = random(intellisult.config.E, 'e')
+    f = random(intellisult.config.F, 'f')
+
     name ?= ''
     if name.trim() isnt ''
         insult = "#{name} is #{a} #{b} #{c} and a #{d} #{e} #{f}."
@@ -31,7 +23,7 @@ intellisult = (name) ->
             insult = "#{name} is #{a} #{b} #{c} and a #{d} #{e} #{f}."
         else
             insult = "You are #{a} #{b} #{c} and a #{d} #{e} #{f}."
-    
+
     return insult
 
 intellisult.a = intellisult.b = intellisult.c = intellisult.d = intellisult.e = intellisult.f = ''

@@ -15,6 +15,7 @@ Contributing
 1. Add your insult(s) to [insults.txt](https://github.com/TheUnknownOne/Insults/edit/master/src/insults.txt) (click to fork the repository and open an editor).
 2. If it's your first time, add your name to [CONTRIBUTORS](https://github.com/TheUnknownOne/Insults/edit/master/CONTRIBUTORS).
 3. Send a pull request! (Go to "Pull Request" in your fork and click on "New Pull Request")
+4. After your pull has been merged, a repo collaborator will generate the json source for you.
 
 Conventions
 ===========
@@ -23,6 +24,9 @@ Conventions
 * If you want a lowercase name, use {name}
 * If you want a name as-is, use {Name}
 * If you want an uppercase name, use {NAME}
+* Only edit insults.txt
+* Separate insults with two new lines
+* A new line always goes at the end of the file
 
 Seriously?
 ==========

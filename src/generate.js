@@ -1,5 +1,5 @@
 var fs = require('fs'),
-    insults, json;
+    insults, json, jarr;
 
 function removeDuplicates(array) {
     var o = {},
@@ -18,18 +18,23 @@ function removeDuplicates(array) {
 }
 
 // Remove \r
-insults = fs.readFileSync('insults.txt', {encoding: 'utf8'}).replace(/\r/g, '').split('\n\n');
+insults = fs.readFileSync('insults.txt', {encoding: 'utf8'}).replace(/\r/g, '').split('\n');
 
 // Remove duplicates
 insults = removeDuplicates(insults);
 
-// Remove \n in the last line (for the json) - add it back in the source
-insults[insults.length - 2] = insults[insults.length - 2].replace('\\n', '');
-//insults.splice(insults.length - 1, 1);
-
 // Generate indented JSON
-json = JSON.stringify(insults, null, 4);
+jarr = insults.slice();
+jarr.splice(-1, 1);
+json = JSON.stringify(jarr, null, 4);
 
 // Write to files
-fs.writeFileSync('insults.txt', insults.join('\n\n'), {encoding: 'utf8'});
-fs.writeFileSync('insults.json', json, {encoding: 'utf8'});
+fs.writeFile('insults.txt', insults.join('\n'), function (e) {
+    if (e) throw e;
+    console.log('Rewrote source.');
+});
+
+fs.writeFile('insults.json', json, function (e) {
+    if (e) throw e;
+    console.log('Wrote JSON');
+});

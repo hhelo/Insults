@@ -28,6 +28,13 @@ Conventions
 * Separate insults with two new lines
 * A new line always goes at the end of the file
 
+Integrating
+===========
+
+* The files are always up to date, you may choose either a plain text or json version.
+* For the json version, just parse it with a json parser.
+* For the text version, one way to parse it is (in JavaScript) `var i = insults.split('\n'); if (i[i.length - 1] === '') { i = i.slice(0, -1); }`. This always removes the trailing new line if there is one. Sometimes it may be forgotten by accident, so it's best to protect yourself with that additional check.
+
 Seriously?
 ==========
 

@@ -1,4 +1,4 @@
-intellisult = (name) ->
+intellisult = (name = '') ->
     random = (container, check) ->
         len = container.length
         str = container[Math.floor(Math.random() * len)]
@@ -14,7 +14,6 @@ intellisult = (name) ->
     e = random(intellisult.config.E, 'e')
     f = random(intellisult.config.F, 'f')
 
-    name ?= ''
     insult = ''
     if name.trim() isnt ''
         insult = "#{name} is #{a} #{b} #{c} and a #{d} #{e} #{f}."

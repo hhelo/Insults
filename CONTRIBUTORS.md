@@ -17,4 +17,4 @@ Management
 ALSO
 ====
 * Various stupid Android users.
-* 4chan, in particular /b/ and /jp/.
+* 4chan, in particular /b/.
